@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira_Code&weight=600&size=26&duration=2800&pause=700&color=408A71&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Welcome%2C+traveler!+%F0%9F%91%8B;you%27ve+reached+ROEDY3%27s+terminal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira_Code&weight=600&size=26&duration=2800&pause=700&color=408A71&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Welcome%2C+traveler!+%F0%9F%91%8B;you%27ve+reached+ROEDY3%27s+terminal" alt="Typing SVG" width="100%" style="max-width: 600px;" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ROEDY3/ROEDY3/main/assets/doctor-strange.gif" alt="Doctor Strange" width="440" />
+  <img src="https://raw.githubusercontent.com/ROEDY3/ROEDY3/main/assets/doctor-strange.gif" alt="Doctor Strange" width="100%" style="max-width: 440px;" />
 </p>
-
-
 
 ## 🧭 about
 
@@ -27,8 +25,9 @@
 
 ## 🛠️ stack
 
-<div align="center">
-  <table>
+<div align="center" style="width: 100%; max-width: 700px; margin: 0 auto;">
+
+  <table width="100%">
     <tr align="center">
       <th>CODE</th>
       <th>TOOLS</th>
@@ -63,35 +62,33 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ROEDY3&bg_color=091413&title_color=B0E4CC&text_color=B0E4CC&icon_color=408A71&ring_color=408A71&hide_border=true&show_icons=true" alt="Stats" />
-  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ROEDY3&bg_color=091413&title_color=B0E4CC&text_color=B0E4CC&icon_color=408A71&ring_color=408A71&hide_border=true&show_icons=true" alt="Stats" width="100%" style="max-width: 700px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROEDY3&theme=solarized_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROEDY3&theme=solarized_dark" alt="Profile Details" width="100%" style="max-width: 700px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ROEDY3&theme=solarized_dark" alt="Productive Time" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROEDY3&theme=solarized_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ROEDY3&theme=solarized_dark" alt="Productive Time" width="49%" style="max-width: 340px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROEDY3&theme=solarized_dark" alt="Most Commit Language" width="49%" style="max-width: 340px;" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ROEDY3&theme=dark&background=091413&ring=408A71&fire=408A71&currStreakLabel=B0E4CC&currStreakNum=408A71&sideLabels=285A48&sideNums=B0E4CC&dates=285A48&hide_border=true&stroke=285A48" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ROEDY3&theme=dark&background=091413&ring=408A71&fire=408A71&currStreakLabel=B0E4CC&currStreakNum=408A71&sideLabels=285A48&sideNums=B0E4CC&dates=285A48&hide_border=true&stroke=285A48" alt="GitHub Streak" width="100%" style="max-width: 700px;" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROEDY3/ROEDY3/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROEDY3/ROEDY3/output/github-snake.svg" />
-    <img alt="contribution graph" src="https://raw.githubusercontent.com/ROEDY3/ROEDY3/output/github-snake.svg" width="100%" />
+    <img alt="contribution graph" src="https://raw.githubusercontent.com/ROEDY3/ROEDY3/output/github-snake.svg" width="100%" style="max-width: 700px;" />
   </picture>
 </p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pi5tcwfa26xsyjqr66dq3dpy6m&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pi5tcwfa26xsyjqr66dq3dpy6m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pi5tcwfa26xsyjqr66dq3dpy6m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark" width="100%" style="max-width: 700px;">
   </a>
 </p>
 
